@@ -6,4 +6,5 @@ repo added to the default list yet.
 
 ## My Programs
 
-- Tree: Prints a recursive directory and file tree from the current working directory
+- tree: Prints a recursive directory and file tree from the current working directory
+- wc: Counts the number of lines, words, and bytes in a given file or standard input
